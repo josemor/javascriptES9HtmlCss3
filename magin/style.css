@@ -1,0 +1,19 @@
+body {
+    background-color: silver;
+}
+
+.caja{
+    margin: 8px;
+    padding: 8px;
+    background-color: slateblue;
+    border-width: 8px;
+    border-color: springgreen;
+    border-left: 6px solid tomato;
+    border-right: 6px solid tomato;
+    border-style: solid;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+    color: rgb(121, 11, 11);
+    
+}

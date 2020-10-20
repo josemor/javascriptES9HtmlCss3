@@ -1,0 +1,7 @@
+body {
+    background-color: Gainsboro;
+}
+
+#invisible {
+    display: none;
+}
