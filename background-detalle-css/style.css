@@ -1,0 +1,17 @@
+body {
+    background-color: Gainsboro;
+}
+
+/*.fondo {
+    background: green url('http://placekitten.com/200/300')  no-repeat left top fixed;
+    background-size: cover;
+    height: 400px;
+}*/
+
+/*.fondo {
+    background-color: rgba(0, 0, 0, 0.2);
+}*/
+
+.fondo {
+    background-image: linear-gradient(to  right, red,blue);
+}
